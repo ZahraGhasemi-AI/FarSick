@@ -1,7 +1,7 @@
 # FarSick
-========================================================================================================
+
 This is FarSick Corpus; A Persian Semantic Textual Similarity And Natural Language Inference Dataset.
-========================================================================================================
+
 If you use this corpus, please cite this paper:
 
 	comming soon...
@@ -15,10 +15,8 @@ If you use this corpus, please cite this paper:
 		Title = {FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset},
 		Year = {2021}}
 		
-========================================================================================================
 Contact: zghasemik@gmail.com
 Project page: https://github.com/ZahraGhasemi-AI/FarSick
-========================================================================================================
 
 FarSick is the first relatively large-scale STS dataset for Persian language. It consists of about 10,000 English sentence pairs.
 Each sentence pair is annotated for relatedness and semantics in meaning and for the entailment relation between the two elements.
@@ -26,9 +24,7 @@ This dataset is collected by translating and editing the sentences of SICK datas
 
 - File Structure: tab-separated text file
 
-==========
 Fields:
-==========
 
 - pair_ID: sentence pair ID
 
@@ -52,9 +48,7 @@ Fields:
 
 - binary_label: semantic gold score (0 vs. 1)
 
-==========
 Staistics:
-==========
 
 Training pairs: 4439
 Trial pairs: 495
