@@ -1,1 +1,1 @@
-# NLP-persian
+# FarSick
