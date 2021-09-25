@@ -1,4 +1,4 @@
-# FarSick
+# FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset
 
 This is FarSick Corpus; A Persian Semantic Textual Similarity And Natural Language Inference Dataset.
 
