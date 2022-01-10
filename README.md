@@ -15,7 +15,8 @@ If you use this corpus, please cite this paper:
 		title={FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset},
 		year={2021}}
 		
-Contact: zghasemik@gmail.com       Project page: https://github.com/ZahraGhasemi-AI/FarSick
+Contact:      zghasemik@gmail.com       
+Project page: https://github.com/ZahraGhasemi-AI/FarSick
 
 FarSick is the first relatively large-scale STS dataset for Persian language. It consists of about 10,000 English sentence pairs.
 Each sentence pair is annotated for relatedness and semantics in meaning and for the entailment relation between the two elements.
