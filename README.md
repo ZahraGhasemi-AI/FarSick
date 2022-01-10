@@ -9,11 +9,11 @@ If you use this corpus, please cite this paper:
 	Zahra Ghasemi, Mohammad Ali Keyvanrad. 2021.
 	FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset
 	
-	@inproceedings{FarSick:ICCKE 2021,
-		Author = {Zahra Ghasemi, Mohammad Ali Keyvanrad},
-		Conference = {11th International Conference on Computer and Knowledge Engineering (ICCKE 2021)},
-		Title = {FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset},
-		Year = {2021}}
+	@INPROCEEDINGS{ ,
+		author={Ghasemi, Zahra and Keyvanrad, Mohammad Ali},
+		booktitle={2021 11th International Conference on Computer and Knowledge Engineering (ICCKE)},
+		title={FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset},
+		year={2021}}
 		
 Contact: zghasemik@gmail.com
 Project page: https://github.com/ZahraGhasemi-AI/FarSick
