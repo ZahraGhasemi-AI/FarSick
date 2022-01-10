@@ -6,7 +6,7 @@ If you use this corpus, please cite this paper:
 
 	comming soon...
 	
-	Z. Ghasemi and M. A. Keyvanrad, "A Persian Semantic Textual Similarity And Natural Language Inference Dataset," 2021 11th International Conference on Computer 		and Knowledge Engineering (ICCKE), 2021.
+	Z. Ghasemi and M. A. Keyvanrad, "A Persian Semantic Textual Similarity And Natural Language Inference Dataset," 2021 11th International Conference on Computer and Knowledge Engineering (ICCKE), 2021.
 	
 	@INPROCEEDINGS{ ,
 		author={Ghasemi, Zahra and Keyvanrad, Mohammad Ali},
