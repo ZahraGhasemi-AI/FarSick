@@ -15,8 +15,7 @@ If you use this corpus, please cite this paper:
 		title={FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset},
 		year={2021}}
 		
-Contact: zghasemik@gmail.com
-Project page: https://github.com/ZahraGhasemi-AI/FarSick
+Contact: zghasemik@gmail.com       Project page: https://github.com/ZahraGhasemi-AI/FarSick
 
 FarSick is the first relatively large-scale STS dataset for Persian language. It consists of about 10,000 English sentence pairs.
 Each sentence pair is annotated for relatedness and semantics in meaning and for the entailment relation between the two elements.
@@ -50,15 +49,15 @@ Fields:
 
 Staistics:
 
-Training pairs: 4439
-Trial pairs: 495
-Test pairs: 4906
-Total pairs: 9840
+- Training pairs: 4439
+- Trial pairs: 495
+- Test pairs: 4906
+- Total pairs: 9840
 
-Train labels: {'entailment': 1274, 'neutral': 2524, 'contradiction': 641}, {'0': 1065, '1': 3374}
-Trial labels: {'entailment': 143, 'neutral': 281, 'contradiction': 71}, {'0': 105, '1': 390}
-Test labels: {'entailment': 1404, 'neutral': 2790, 'contradiction': 712} {'0':1126, '1':3780}
+- Train labels: {'entailment': 1274, 'neutral': 2524, 'contradiction': 641}, {'0': 1065, '1': 3374}
+- Trial labels: {'entailment': 143, 'neutral': 281, 'contradiction': 71}, {'0': 105, '1': 390}
+- Test labels: {'entailment': 1404, 'neutral': 2790, 'contradiction': 712} {'0':1126, '1':3780}
 
-Training number of tokens: 3384
-Trial number of tokens: 1264
-Test number of tokens: 3360
+- Training number of tokens: 3384
+- Trial number of tokens: 1264
+- Test number of tokens: 3360
