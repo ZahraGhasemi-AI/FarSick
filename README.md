@@ -3,17 +3,18 @@
 This is FarSick Corpus; A Persian Semantic Textual Similarity And Natural Language Inference Dataset.
 
 If you use this corpus, please cite this paper:
-
-	comming soon...
 	
-	Z. Ghasemi and M. A. Keyvanrad, "A Persian Semantic Textual Similarity And Natural Language Inference Dataset",
-				11th International Conference on Computer and Knowledge Engineering (ICCKE 2021), 2021.
+	Z. Ghasemi and M. A. Keyvanrad, "FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset," 2021 11th International 				       Conference on Computer Engineering and Knowledge (ICCKE), 2021, pp. 194-199, doi: 10.1109/ICCKE54056.2021.9721521.
 	
-	@INPROCEEDINGS{ ,
-		author={Ghasemi, Zahra and Keyvanrad, Mohammad Ali},
-		booktitle={2021 11th International Conference on Computer and Knowledge Engineering (ICCKE)},
-		title={FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset},
-		year={2021}}
+	@INPROCEEDINGS{9721521,
+  		author={Ghasemi, Zahra and Keyvanrad, Mohammad Ali},
+  		booktitle={2021 11th International Conference on Computer Engineering and Knowledge (ICCKE)},
+  		title={FarSick: A Persian Semantic Textual Similarity And Natural Language Inference Dataset},
+  		year={2021},
+  		volume={},
+  		number={},
+  		pages={194-199},
+  		doi={10.1109/ICCKE54056.2021.9721521}}
 		
 Contact:      zghasemik@gmail.com       
 Project page: https://github.com/ZahraGhasemi-AI/FarSick
